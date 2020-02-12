@@ -42,4 +42,6 @@ def self.artists
 end
 
 def initialize(name, artist, genre)
-  
+
+
+end
