@@ -41,4 +41,4 @@ def self.artists
   @@artists.uniq 
 end
 
-def initialize(name, )
+def initialize(name, artist)
