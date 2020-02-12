@@ -46,6 +46,6 @@ def initialize(name, artist, genre)
 @artist = artist
 @genre = genre 
 
-@@artist << 
+@@artist << artist
 
 end
