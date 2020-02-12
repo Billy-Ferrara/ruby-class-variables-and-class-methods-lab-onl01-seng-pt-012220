@@ -49,6 +49,7 @@ def initialize(name, artist, genre)
 @@artist << artist
 @@genre << genre 
 
-@@count 
+@@count += 1 
+end 
 
 end
