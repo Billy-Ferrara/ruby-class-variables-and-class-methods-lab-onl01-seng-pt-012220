@@ -34,5 +34,5 @@ end
 @@artists = []
 
 def self.artist_count
-  
+  @@artists
 end
